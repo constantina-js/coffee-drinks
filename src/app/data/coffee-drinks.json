@@ -1,0 +1,151 @@
+[
+    {
+        "drink": "espresso",
+        "recipe":{
+            "espresso": "1oz",
+            "cup": "espresso cup"
+            }
+        },
+    {
+        "drink": "double espresso",
+        "recipe":{
+            "espresso": "2oz",
+            "cup": "Demitasse cup"
+        }
+    },
+    {
+        "drink": "red eye",
+        "recipe":{
+            "espresso": "1oz",
+            "coffee": "6oz",
+            "cup": "coffee mug"
+        }
+    },
+    {
+        "drink": "black eye",
+        "recipe":{
+            "espresso": "2oz",
+            "coffee": "6oz",
+            "cup": "coffee mug"
+        }
+    },
+    {
+        "drink": "americano",
+        "recipe":{
+            "espresso": "1oz",
+            "water": "3oz",
+            "cup": "glass coffee mug"
+        }
+    },
+    {
+        "drink": "long black",
+        "recipe":{
+            "water": "3oz",
+            "espresso": "2oz",
+            "cup": "coffee mug"
+        }
+    },
+    {
+        "drink": "macchiato",
+        "recipe":{
+            "espresso": "1oz",
+            "steamed milk": "2tsp",
+            "cup": "glass espresso cup"
+        }
+    },
+    {
+        "drink": "long macchiato",
+        "recipe":{
+            "espresso": "2oz",
+            "steamed milk": "4tsp",
+            "cup": "rocks glass"
+        }
+    },
+    {
+        "drink": "cortado",
+        "recipe":{
+            "espresso": "1oz",
+            "warm milk": "1oz",
+            "foam": "1cm",
+            "cup": "rocks glass"
+        }
+    },
+    {
+        "drink": "breve",
+        "recipe":{
+            "espresso": "1oz",
+            "steamed half-and-half": "3oz",
+            "foam": "1cm",
+            "cup": "low cup"
+        }
+    },
+    {
+        "drink": "cappucino",
+        "recipe":{
+            "espresso": "1oz",
+            "steamed milk": "2oz",
+            "foamed milk": "2oz",
+            "cup": "cappucino mug"
+        }
+    },
+    {
+        "drink": "flat white",
+        "recipe":{
+            "espresso": "1oz",
+            "steamed milk": "4oz",
+            "cup": "glass tumbler"
+        }
+    },
+    {
+        "drink": "caffe latte",
+        "recipe":{
+            "espresso": "1oz",
+            "steamed milk": "8oz",
+            "foam": "1cm",
+            "cup": "coffee mug"
+        }
+    },
+    {
+        "drink": "mocha",
+        "recipe":{
+            "espresso": "1oz",
+            "chocolate syrup": "1oz",
+            "steamed milk": "1oz",
+            "foam": "2cm",
+            "cup": "Irish coffee mug"
+        }
+    },
+    {
+        "drink": "vienna",
+        "recipe":{
+            "espresso": "1oz",
+            "whipped cream":"2oz",
+            "cup": "espresso mug"
+        }
+    },
+    {
+        "drink": "affogato",
+        "recipe":{
+            "espresso": "1oz",
+            "vanilla ice cream": "1 scoop",
+            "cup": "dessert dish"
+        }
+    },
+    {
+        "drink": "cafe au lait",
+        "recipe":{
+            "French press coffee": "5oz",
+            "scalded milk": "5oz",
+            "cup": "coffee mug"
+        }
+    },
+    {
+        "drink": "iced coffee",
+        "recipe":{
+            "coffee": "2oz",
+            "ice": "4oz",
+            "cup": "mixing glass"
+        }
+    }
+
+]
